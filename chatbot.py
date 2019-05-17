@@ -34,3 +34,4 @@ elif(invest=="no"):
     print("That is okay, have a nice day")
 else:
     print("It is ok "+name+", email me when you have an answer")
+print("I hope you have a good day")
